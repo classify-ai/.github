@@ -1,4 +1,4 @@
-Classify
+**Classify**
 
 **A live semantic index of the open web.**
 
